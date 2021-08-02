@@ -12,6 +12,8 @@ for x in range(1,101):
         print("Coding Dojo")
     elif x % 5 == 0:
         print("Coding")
+    else:
+        print(x)
  
 print("\n4: Whoa. That Sucker's Huge")
 sum = 0
